@@ -1,0 +1,9 @@
+name: IPKick
+version: 1
+author: mclarence
+main: xyz.mclarence.ipkick.IpKick
+api-version: 1.14
+commands:
+  ipkick:
+    description: Ipkick base command.
+    usage: /ipkick

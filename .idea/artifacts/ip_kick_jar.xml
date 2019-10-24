@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ip-kick:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ip_kick_jar</output-path>
+    <root id="archive" name="ip-kick.jar">
+      <element id="module-output" name="ip-kick" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/spigot-1.14.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
