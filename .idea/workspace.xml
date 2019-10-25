@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0597e99-1831-48a3-8f4b-05557a1b30a6" name="Default Changelist" comment="" />
+    <list default="true" id="f0597e99-1831-48a3-8f4b-05557a1b30a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/mclarence/ipkick/BaseCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/mclarence/ipkick/BaseCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/mclarence/ipkick/ReloadCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/mclarence/ipkick/ReloadCommand.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +28,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SeDFnDtMsw4xScssVjCQYzr42m" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -77,10 +87,22 @@
       <workItem from="1571915069212" duration="3633000" />
       <workItem from="1571951970962" duration="5804000" />
       <workItem from="1571958492890" duration="608000" />
+      <workItem from="1571959638652" duration="1158000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

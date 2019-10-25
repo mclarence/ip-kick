@@ -7,3 +7,5 @@ commands:
   ipkick:
     description: Ipkick base command.
     usage: /ipkick
+    permission: ipkick.base
+    permission-message: You do not have access to this command.
